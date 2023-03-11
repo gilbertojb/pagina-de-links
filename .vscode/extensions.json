@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "pkief.material-icon-theme",
+    "dracula-theme.theme-dracula",
+    "ritwickdey.liveserver"
+  ]
+}
